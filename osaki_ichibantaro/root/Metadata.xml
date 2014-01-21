@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<version>1.0</version>
+	<name>大崎一番太郎</name>
+	<designer>犬山秋彦</designer>
+	<auther>犬山秋彦</auther>
+	<organization>FLAME</organization>
+	<licence>
+	  	<model>CC0</model>
+	  	<design>CC0</design>
+	</licence>
+	<created>2014/1/25 14:00:00</created>
+	<modified>2014/1/25 15:00:00</modified>
+	<format>FBX</format>
+</root>
