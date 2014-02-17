@@ -1,4 +1,6 @@
-・制作者名　　
+・源データ制作者名　今垣佳奈 (Kana Imagaki)
+
+・最終データ製作者名　北田祐子(Yuko Kitada)　がーすー(garsu)　岩田英樹(Hideki Iwata)
 
 ・制作日　　　2014/01/27
 
@@ -22,7 +24,9 @@
  　　　　　　　
 
 
-・制作者情報  
+・源データ制作者情報  今垣佳奈 (Kana Imagaki)  所属会社  株式会社スタジオディーン　（STUDIO DEEN CO.,LTD）
+
+・最終データ製作者情報　北田祐子(Yuko Kitada)　がーすー(garsu)　岩田英樹(Hideki Iwata)  所属会社 株式会社フレイム(FLAME CO.,LTD)
 
 ・データファイル出力環境情報　　　XSI_ver2012(Crosswalk 2014.0)
 
