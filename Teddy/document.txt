@@ -1,0 +1,20 @@
+・データ制作者名　Yu Amatsu
+・デザイン権利者　A DEGREE FAHREHEIT/株式会社212（212 CO.,LTD）
+
+・制作日　　　2013/12/04
+
+・ファイル構成　PDF　→型紙データ
+
+　　　　　　　　　DFX　→型紙データ（TIIT ver.1.10）
+
+　　　　　　　　  docmant.txt→更新情報/ファイル構成等　　
+
+
+・データ制作者情報  Yu Amatsu  所属会社  株式会社２１２　（212 CO.,LTD）
+
+・データファイル出力環境情報　　「SketchUp Pro2014 日本語版」（米・Trimble Navigation）でインポート確認済　
+
+
+
+
+
