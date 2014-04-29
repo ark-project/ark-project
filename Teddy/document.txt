@@ -5,7 +5,7 @@
 
 ・ファイル構成　PDF　→型紙データ
 
-　　　　　　　　　DFX　→型紙データ（TIIT ver.1.10）
+　　　　　　　　　DXF　→型紙データ（TIIT ver.1.10）
 
 　　　　　　　　  docmant.txt→更新情報/ファイル構成等　　
 
